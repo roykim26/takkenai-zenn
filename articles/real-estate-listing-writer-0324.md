@@ -26,4 +26,4 @@ published: true
   "features": ["南東向き", "2023年リノベーション", "宅配ボックス完備"]
 }
 
-<!-- zenn-retry: 2026-03-26 10:30:50 | waiting-retry -->
+<!-- zenn-retry: 2026-03-28 10:30:50 | waiting-retry -->
