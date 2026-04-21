@@ -62,4 +62,4 @@ published: true
 
 ## まとめ：語呂合わせを賢
 
-<!-- zenn-retry-marker: 2026-04-19T10:30:49+09:00 -->
+<!-- zenn-retry-marker: 2026-04-21T10:30:52+09:00 -->
