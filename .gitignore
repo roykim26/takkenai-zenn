@@ -1,0 +1,36 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyc.*
+*.pyo
+*.pyd
+
+# Env / secrets
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime / state
+.publish.lock
+.service.heartbeat
+.service.pid
+publish_control.json
+
+# Local outputs
+hatena_exports/
+tmp/
+temp/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Optional local test artifacts
+coverage/
+.pytest_cache/
